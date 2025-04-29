@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArch.Application", "sr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArch.Infrastructure", "src\CleanArch.Infrastructure\CleanArch.Infrastructure.csproj", "{B2E8253D-0CDF-4140-A085-9A862C59F307}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArch.API", "CleanArch.API\CleanArch.API.csproj", "{7DAD2377-681F-43F0-894F-7564A50DA204}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArch.API", "src\CleanArch.API\CleanArch.API.csproj", "{7DAD2377-681F-43F0-894F-7564A50DA204}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
