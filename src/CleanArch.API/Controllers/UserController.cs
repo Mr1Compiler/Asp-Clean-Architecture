@@ -1,5 +1,4 @@
 ﻿using CleanArch.Application.Interfaces;
-using CleanArch.Application.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CleanArch.API.Controllers;
